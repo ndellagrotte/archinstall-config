@@ -8,6 +8,7 @@ pushd $TARGET_DIR
 curl -fsSL https://raw.githubusercontent.com/ndellagrotte/archinstall-config/main/user_configuration.json -O
 curl -fsSL https://raw.githubusercontent.com/ndellagrotte/archinstall-config/main/user_credentials.json -O
 curl -fsSL https://raw.githubusercontent.com/ndellagrotte/archinstall-config/main/install.sh -O
+curl -fsSL https://raw.githubusercontent.com/ndellagrotte/archinstall-config/main/pic.sh -O
 
 echo "default user is ronnie, default password is fortnite"
 
