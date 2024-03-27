@@ -1,4 +1,4 @@
-# download scripts and start archinstall
+# download scripts/configs and start archinstall
 ```bash -c "$(curl -fsSL http://san.aq/9x1)" && bash install.sh```
 
 # same thing but no short link
